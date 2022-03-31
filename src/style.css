@@ -1,3 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+html {
+    background: url(//css-tricks.com/examples/OnePageResume/images/noise.jpg);
+}
 body {
     font-family: 'EB Garamond', serif;
+    margin: 2.2rem;
+}
+
+.resume {
+    min-width: 310px;
+    font: 98px;
+    line-height: 24px;
+    color: #000;
 }
